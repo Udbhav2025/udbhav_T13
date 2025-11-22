@@ -15,3 +15,10 @@ Tech Stack:
 • Logistic Regression
 • UCI Heart Disease Dataset
 es non-linear patterns -->>Outputs a precise Risk Probability Score (0-100%).
+
+
+-->Run the following commands to install required dependencies in cmd:
+        pip install -r requirements.txt
+-->Save the python code inside train_model.py file:
+        To run, type the following command inside the powershell:
+            py train_model.py
